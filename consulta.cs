@@ -1,0 +1,7 @@
+﻿namespace Requisição
+{
+    class consulta
+    {
+		
+    }
+}
